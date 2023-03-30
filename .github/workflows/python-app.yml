@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   build:
-    permsissions:
+    permissions:
         pull-requests: write
 
     runs-on: ubuntu-latest
